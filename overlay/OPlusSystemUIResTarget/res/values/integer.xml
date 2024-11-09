@@ -3,7 +3,7 @@
      Copyright (C) 2022 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
-    <!-- Maximum keyguard notification count -->
 <resources>
+    <!-- Maximum keyguard notification count -->
     <integer name="keyguard_max_notification_count">3</integer>
 </resources>
